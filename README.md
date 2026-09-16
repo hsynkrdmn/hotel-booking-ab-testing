@@ -21,7 +21,7 @@ The experiment ran for 31 days with **30,000 unique users** split evenly (15,000
 
 ## 🔍 Visual Summary
 
-![A/B Testing Trade-off Metrics](reports_tradeoff_metrics.png)
+![A/B Testing Trade-off Metrics](reports_metrics.png)
 
 ---
 
