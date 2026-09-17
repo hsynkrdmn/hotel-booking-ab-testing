@@ -43,18 +43,6 @@ The experiment ran for 31 days with **30,000 unique users** split evenly (15,000
 
 ---
 
-## 📁 Project Structure
-
-├── data/
-│   └── raw/                      # Raw dataset (hotel_booking_ab_testing.csv)
-├── notebooks/
-│   └── 01_eda_and_cleaning.ipynb # Full analysis, cleaning, and hypothesis tests
-├── reports_tradeoff_metrics.png   # Bar chart showing conversion, cancellation, and net rate
-├── reports_novelty_trend.png      # Time-series cumulative trend chart
-└── README.md                     # Project documentation
-
----
-
 ## 💻 Tech Stack & Libraries
 * **Python 3.x**
 * **Pandas & NumPy:** Data wrangling and metric aggregation
